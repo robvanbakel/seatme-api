@@ -21,6 +21,7 @@
     "prettier": "^3.0.3"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
     "elysia": "^0.7.29"
   }
 }
